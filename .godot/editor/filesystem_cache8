@@ -1,0 +1,20 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710790709
+default_env.tres::Environment::-1::1710790697::0::1::::<><>::
+icon.png::CompressedTexture2D::2086305769335820554::1710449187::1710790710::1::::<><>::
+start scene.tscn::PackedScene::-1::1710790697::0::1::::<><>::res://themes/startmenu.tres<>res://scripts/start scene.gd
+::res://assets/::1710452626
+::res://assets/fonts/::1710451498
+20930.ttf::FontFile::8983541625548430510::1710451498::1710790710::1::::<><>::
+::res://assets/images/::1710449566
+::res://assets/images/icons/::1710449516
+::res://assets/images/sprites/::1710449566
+::res://assets/sounds/::1710449579
+::res://levels/::1710449489
+::res://menus/::1710452760
+Levels.tscn::PackedScene::-1::1710790697::0::1::::<><>::
+Settings.tscn::PackedScene::-1::1710790697::0::1::::<><>::
+::res://scripts/::1710452755
+start scene.gd::GDScript::-1::1710790697::0::1::::<>Control<>::
+::res://themes/::1710452619
+startmenu.tres::Theme::-1::1710790697::0::1::::<><>::res://assets/fonts/20930.ttf
