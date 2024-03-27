@@ -1,3 +1,7 @@
 res://default_env.tres
-res://start scene.tscn
+res://platform.tscn
 res://themes/startmenu.tres
+res://player.tscn
+res://Player.gd
+res://start scene.tscn
+res://levels/level1.tscn

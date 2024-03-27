@@ -1,20 +1,27 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710790709
-default_env.tres::Environment::-1::1710790697::0::1::::<><>::
+::res://::1711554755
+block1.png::CompressedTexture2D::590316340384250061::1711554755::1711554764::1::::<><>::
+default_env.tres::Environment::3050184415121628346::1711553739::0::1::::<><>::
 icon.png::CompressedTexture2D::2086305769335820554::1710449187::1710790710::1::::<><>::
-start scene.tscn::PackedScene::-1::1710790697::0::1::::<><>::res://themes/startmenu.tres<>res://scripts/start scene.gd
+platform.tscn::PackedScene::6049195543333180475::1711553739::0::1::::<><>::uid://bu2ws5haef56p::::res://assets/images/sprites/block2.png
+Player.gd::GDScript::-1::1711553717::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::7980761083973375455::1711553739::0::1::::<><>::uid://4yvfe2cr3pkk::::res://icon.png<>res://Player.gd
+start scene.tscn::PackedScene::7023782431316181024::1711553739::0::1::::<><>::uid://15jv0mgjt8u::::res://themes/startmenu.tres<>res://scripts/start scene.gd
 ::res://assets/::1710452626
-::res://assets/fonts/::1710451498
+::res://assets/fonts/::1710790710
 20930.ttf::FontFile::8983541625548430510::1710451498::1710790710::1::::<><>::
 ::res://assets/images/::1710449566
 ::res://assets/images/icons/::1710449516
-::res://assets/images/sprites/::1710449566
+::res://assets/images/sprites/::1711553296
+block1.png::CompressedTexture2D::745295262698920042::1710951843::1710952107::1::::<><>::
+block2.png::CompressedTexture2D::3847305260464225869::1711553278::1711553296::1::::<><>::
 ::res://assets/sounds/::1710449579
-::res://levels/::1710449489
+::res://levels/::1711553739
+level1.tscn::PackedScene::6541263018279572298::1711553739::0::1::::<><>::uid://csgjmqayjfdlb::::res://platform.tscn<>uid://dlx677hrn02hn::::res://player.tscn
 ::res://menus/::1710452760
 Levels.tscn::PackedScene::-1::1710790697::0::1::::<><>::
 Settings.tscn::PackedScene::-1::1710790697::0::1::::<><>::
-::res://scripts/::1710452755
-start scene.gd::GDScript::-1::1710790697::0::1::::<>Control<>::
-::res://themes/::1710452619
-startmenu.tres::Theme::-1::1710790697::0::1::::<><>::res://assets/fonts/20930.ttf
+::res://scripts/::1710950830
+start scene.gd::GDScript::-1::1710950830::0::1::::<>Control<>::
+::res://themes/::1711553323
+startmenu.tres::Theme::55512545697775530::1711553323::0::1::::<><>::uid://d08xvaqjcgnte::::res://assets/fonts/20930.ttf
